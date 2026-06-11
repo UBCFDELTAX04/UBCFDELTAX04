@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UBCFDELTAX04&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UBCFDELTAX04&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UBCFDELTAX04&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" width="48%" />
 </p>
 ---
 
