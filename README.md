@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Ranjan Swain! 👋 🚀
+# Hi there, I'm Aditya Ranjan Swain! :)
 
 🚀 About Me
 🎓 B.Tech in Computer Science & Engineering (IoT) — SOA ITER
