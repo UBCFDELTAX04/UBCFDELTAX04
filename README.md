@@ -21,21 +21,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🧠 [Sign Language Translator](https://github.com/yourusername/sign-language-translator)
-* **What it is:** A portable system that translates sign language into text/speech in real-time.
-* **Tech Stack:** Raspberry Pi 4B, OpenCV, Computer Vision, Python, 3.5-inch LCD Display, ZEBronics Webcam.
-* **Impact:** Bridges the communication gap for the hearing and speech-impaired using local edge computing.
+### 🎭 [Image Swap AI](https://github.com/UBCFDELTAX04/Image_Swapp_AI)
+* **The Core:** An advanced Artificial Intelligence pipeline designed for high-fidelity, seamless face swapping within images.
+* **Tech Stack:** Python, OpenCV, Deep Learning models, Computer Vision frameworks.
+* **Key Implementation:** Leverages precise facial landmark extraction and alignment matrices to execute realistic facial replacements while naturally preserving original lighting conditions and source geometry.
 
-### 🌡️ [Biometric Attendance System with Auto-Sanitizer](https://github.com/yourusername/biometric-attendance)
-* **What it is:** An integrated smart kiosk featuring biometric check-ins, non-contact temperature sensing, and automated hand sanitization.
-* **Tech Stack:** Raspberry Pi, Python, Biometric Sensors, I2C Modules, Motor Drivers.
+### 🤟 [American Sign Language Translator using Raspberry Pi 4](https://github.com/UBCFDELTAX04/AmericanSignLanguage_using_RaspberryPI4)
+* **The Core:** An edge-computing assistive device that translates American Sign Language (ASL) gestures into real-time text and speech.
+* **Tech Stack:** Raspberry Pi 4B, OpenCV, Python, USB Webcam, Local LCD Interface.
+* **Key Implementation:** Runs localized computer vision architectures directly on the edge hardware to process video streams, identify hand structural frames, and translate conversational communication gaps with zero external cloud dependencies.
 
-### 👗 [Fashion-MNIST Streamlit Classifier](https://github.com/yourusername/fashion-mnist-app)
-* **What it is:** A clean, interactive web application deployed to classify clothing items on the fly using trained machine learning models.
-* **Tech Stack:** Python, Streamlit, Deep Learning / Machine Learning, Git.
-
+### 👁️ [AI Vision Guide System Using Raspberry Pi 4](https://github.com/UBCFDELTAX04/AI_VISION_GUIDE_SYSTEM_Using_RaspberryPI4)
+* **The Core:** A smart wearable navigational aid designed to provide spatial awareness and environment feedback for the visually impaired.
+* **Tech Stack:** Raspberry Pi 4, OpenCV, Object Detection Models, Distance Sensors, Text-to-Speech (TTS) Engine.
+* **Key Implementation:** Integrates continuous camera feeds and sensor arrays to
 ---
 
 ## 📈 Coding Milestones & Achievements
@@ -47,12 +48,13 @@
 
 ---
 
+⚡ <!-- Optional: You can uncomment these lines and replace 'yourusername' with your actual GitHub username to show dynamic cards -->
 ## ⚙️ GitHub Stats
 
-⚡ <!-- Optional: You can uncomment these lines and replace 'yourusername' with your actual GitHub username to show dynamic cards -->
-⚡ [Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-⚡ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UBCFDELTAX04&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UBCFDELTAX04&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
 ---
 
 ## 🏎️ Beyond the Code (The "Hardware" Side)
